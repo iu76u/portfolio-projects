@@ -15,7 +15,7 @@ This project demonstrates **real-world data analysis skills** by exploring and a
 ## **Key Skills Demonstrated**
 
 * **Advanced SQL**: complex joins, cumulative calculations using `SUM() OVER`, partitioning, and ordering.
-* **Data Cleaning & Validation**: handling null values, preventing divide-by-zero errors, and type conversions with `CAST`/`TRY_CONVERT`.
+* **Data Cleaning & Validation**: handling null values, preventing divide-by-zero errors, and type conversions with `CAST`/`CONVERT`.
 * **Analytical Thinking**: turning raw COVID-19 data into meaningful metrics.
 * **Reporting & Visualization Readiness**: query outputs can be directly integrated into tools like **Power BI** or **Tableau**.
 
